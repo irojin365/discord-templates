@@ -29,6 +29,4 @@ This repository contains a Discord server template inspired by the \*Lost\* TV s
 ## Notes
 
 * This is a community-friendly template.
-
-No media files are included in this repository.
-
+* No media files are included in this repository.
